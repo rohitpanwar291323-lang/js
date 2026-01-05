@@ -20,7 +20,7 @@ const anotherId = Symbol("221") // it will be unique but id != anotherId
 
 const Pokemon = ["Pikachu", "Charmendor", "Balbasur"]; // array is written in square brackets
 
-let myObj = {               // obj are written inside curly brackets
+let myObj = {               // obj are written inside curly braces
     name : "Rohit",
     age : 20
 }
